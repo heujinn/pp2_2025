@@ -85,5 +85,4 @@ def name_cat(movie):
     return my_list
 
 film = str(input())
-
 print(name_cat())
